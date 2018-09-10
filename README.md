@@ -6,4 +6,4 @@ Nick Sedillos, 2018.09
 
 ## Description
 
-A personal collection of template files.
+Personal collection of template files.
