@@ -21,4 +21,4 @@ Approach text.
 
 ## Future development
 
-Futurev development text.
+Future development text.
